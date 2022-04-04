@@ -1,11 +1,10 @@
-# Project 1 Submission
+# Project 1
 
-Our submission for CPSC 131, Section 05, Project 1
+Implement custom vector class named MyVector
 
-# Group Information
+# Information
 
-* Mario Campos <mario.campos3@csu.fullerton.edu> 887218337
-* Trang Ngo <trangn0102@csu.fullerton.edu> 886407378
+* Trang Ngo <trangn0102@csu.fullerton.edu>
 
 # Instruction
 
